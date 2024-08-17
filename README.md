@@ -1,2 +1,2 @@
-# security-audit-tool
-A security training tool and audit template. 
+# Cybersecurity Training Tool and Auditing Template
+This cybersecurity training tool leverages the OpenAI API to generate unique security scenarios and respond to user queries, simulating real-world client interactions and audit contexts. It features a web form template that guides users through comprehensive security audits, including asset management, risk assessment, and industry-standard compliance. This tool offers hands-on experience in identifying vulnerabilities and implementing robust security measures.
